@@ -1,0 +1,35 @@
+# LinuxShorts Pro v2.0 - Gereksinimler
+# =====================================
+# Kurulum: pip install -r requirements.txt
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Görüntü İşleme
+Pillow>=10.0.0
+
+# Video İşleme (Frame okuma, önizleme)
+opencv-python>=4.8.0
+
+# NumPy (OpenCV bağımlılığı)
+numpy>=1.24.0
+
+# Altyazı Oluşturma (Whisper AI)
+# Not: openai-whisper büyük bir paket (~1.5GB model dosyaları)
+# İlk çalıştırmada model indirilecek
+openai-whisper>=20231117
+
+# Whisper bağımlılıkları
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# =====================================
+# SİSTEM GEREKSİNİMLERİ (apt ile kurulmalı)
+# =====================================
+# sudo apt install ffmpeg
+# sudo apt install python3-tk
+#
+# =====================================
+# OPSIYONEL (Daha iyi font desteği)
+# =====================================
+# sudo apt install fonts-dejavu-core
