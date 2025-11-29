@@ -320,7 +320,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 👨‍💻 Geliştirici
 
 **Ali Bedirhan**
-- YouTube: [@alibedirhan](https://youtube.com/@alibedirhan)
+- YouTube: [@alibedirhan](https://www.youtube.com/@ali_bedirhan)
 - GitHub: [@alibedirhan](https://github.com/alibedirhan)
 
 ---
